@@ -1,0 +1,11 @@
+.userList {
+  font-size: large;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+  margin: 1rem;
+  border: 1px solid black;
+  background-color: aliceblue;
+  border-radius: none;
+}
